@@ -1,0 +1,16 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file>qml/main.qml</file>
+    <file>qml/InventoryList.qml</file>
+    <file>qml/ItemForm.qml</file>
+    <file>qml/SalesScreen.qml</file>
+    <file>qml/Cart.qml</file>
+    <file>qml/CustomerList.qml</file>
+    <file>qml/CustomerForm.qml</file>
+    <file>qml/ReportsDashboard.qml</file>
+    <file>qml/Chart.qml</file>
+    <file>qml/ErrorDialog.qml</file>
+    <file>qml/Settings.qml</file>
+    <file>qml/Help.qml</file>
+</RCC>

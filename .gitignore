@@ -1,0 +1,33 @@
+# Rust
+target/
+debug/
+release/
+*.rs.bk
+*.rlib
+*.profraw
+*.profdata
+*.idea/
+*.log
+.env*
+
+# Qt
+build/
+bin/
+obj/
+out/
+*.o
+*.so
+*.a
+*.exe
+*.dll
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# General
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
